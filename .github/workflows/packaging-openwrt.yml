@@ -17,40 +17,8 @@ on:
         type: choice
         options:
           - all
-          - s922x_s905x3_s905x2_s912_s905d_s905
-          - ak88
-          - beikeyun
-          - cm3
-          - e25
-          - e52c
-          - ht2
-          - e20c
-          - h28k
-          - h66k
-          - h68k
-          - h69k
-          - h69k-max
-          - h88k
-          - h88k-v3
-          - l1pro
-          - photonicat
           - qemu
-          - r66s
-          - r68s
-          - jp-tvbox
-          - watermelon-pi
-          - rock5b
-          - rock5c
-          - rk3399
-          - s905
-          - s905d
           - s905x2
-          - s905x3
-          - s912
-          - s922x
-          - s922x-n2
-          - vplus
-          - zcube1-max
           - diy
       customize_rk3399:
         description: "Set customize rk3399 devices"
